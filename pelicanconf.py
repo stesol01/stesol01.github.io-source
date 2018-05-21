@@ -11,7 +11,7 @@ SITEURL = ''
 THEME = 'pelican-themes/pelican-bootstrap3'
 BOOTSTRAP_THEME = 'cosmo'
 PLUGIN_PATHS = ['pelican-plugins', ]
-PLUGINS = ['i18n_subsites', ]
+PLUGINS = ['i18n_subsites', 'ipynb.markup']
 JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 
 SHOW_ARTICLE_CATEGORY = True
