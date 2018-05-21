@@ -1,9 +1,9 @@
-Title: Min första artikel
+Title: Välkommen
 Date: 2018-05-18
 Modified: 2018-05-19
 Category: Intro
 Tags: python, jupyter, matematik
-Slug: intro-artikle
+Slug: intro-artikel
 Author: Stefan Sollander
 Summary: En kort introduktion av vad denna sida kommer att beröra för ämnen.
 
