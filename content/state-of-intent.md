@@ -7,7 +7,7 @@ Slug: intro-artikel
 Author: Stefan Sollander
 Summary: En kort introduktion av vad denna sida kommer att beröra för ämnen.
 
-I denna artikel kommer jag förklara vad min avsikt med denna webbsida är.
+I denna artikel kommer jag förklara vad avsikten med denna webbsida är.
 Den är som följande punkter anger:
 
  - En samlingssida för fortbildningskursen i programmering för gymnasiets matematiklärare.

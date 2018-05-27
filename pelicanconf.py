@@ -8,8 +8,8 @@ SITESUBTITLE = u'En webbsida med lite resurser om matematisk programmering i Pyt
 SITEURL = ''
 
 #Theme specific code
-THEME = 'pelican-themes/alchemy/alchemy'
-#THEME = 'pelican-themes/Responsive-Pelican'
+#THEME = 'pelican-themes/alchemy/alchemy'
+THEME = 'pelican-themes/Pelican-Bootstrap3'
 
 
 PLUGIN_PATHS = ['pelican-plugins', ]
@@ -23,6 +23,10 @@ JINJA_ENVIRONMENT = {'extensions': ['jinja2.ext.i18n']}
 SHOW_ARTICLE_CATEGORY = True
 
 PATH = 'content'
+
+#ARTICLE_PATHS = ['articles',]
+#ARTICLE_URL = 'articles/{slug}.html'
+#ARTICLE_SAVE_AS = 'articles/{slug}.html'
 
 TIMEZONE = 'Europe/Paris'
 
